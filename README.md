@@ -1,6 +1,6 @@
 # GRAND OFFICIAL
 
-DEPLOY HERE - [RSR](https://dashboard.heroku.com/new?button-url=https://github.com/RSR-Downloader/zoteofficial)
+DEPLOY HERE - [RSR](https://dashboard.heroku.com/new?button-url=https://github.com/RSR-Downloader/zoteofficial&template=https://github.com/RSR-Downloader/zoteofficial)
 [.](https://heroku.com/deploy)
 Credits - [RSR](https://t.me/rsrmusic)
 
