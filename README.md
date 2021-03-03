@@ -1,9 +1,9 @@
 # GRAND OFFICIAL
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
+DEPLOY HERE - [RSR](https://dashboard.heroku.com/new?button-url=https://github.com/RSR-Downloader/zoteofficial)
 [.](https://heroku.com/deploy)
-Credits - [LEGEND X](https://t.me/legendx22)
+Credits - [RSR](https://t.me/rsrmusic)
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/grand50_bot)
-# TUTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
+Check me on [TELEGRAM](https://t.me/rsrofficialbot)
+
