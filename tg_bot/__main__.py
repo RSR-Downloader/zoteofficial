@@ -27,7 +27,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
-I am an **SUPERB**  group management bot.
+I am an **SUPER**  group management bot.
 You can find the list of available commands with /help.
 
 """
@@ -49,7 +49,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"
+RSR_IMG = "https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -142,11 +142,11 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤝HELP🤝",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
-                                                                       url="t.me/teamishere")],
-                                                                                   [InlineKeyboardButton(text="ADD GRAND OFFICIAL TO YOUR GROUP",
+                                                                       url="t.me/rsrmusic")],
+                                                                                   [InlineKeyboardButton(text="ADD ME TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
-                                                                                   InlineKeyboardButton(text="Source Code",
-                                                                       url="https://github.com/legendx22/GRANDROBOT")
+                                                                                   InlineKeyboardButton(text="Support Channel",
+                                                                       url="t.me/mizolibrary")
                                                                                  ]]))
 
     else:
